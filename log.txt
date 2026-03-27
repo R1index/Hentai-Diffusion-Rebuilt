@@ -1,0 +1,1741 @@
+13:33:29 | INFO     | reborn_bot | • Loaded config: 6 workflows, 3 preset files, 1 ComfyUI instances
+13:33:29 | WARNING  | discord.client | ! PyNaCl is not installed, voice will NOT be supported
+13:33:29 | WARNING  | discord.client | ! davey is not installed, voice will NOT be supported
+13:33:29 | INFO     | reborn_bot | • Bot services initialized | workflows=6 prompt_presets=202 model_presets=2 lora_presets=91 workers=2
+13:33:29 | INFO     | reborn_bot | • Starting Discord bot
+[2026-03-27 13:33:29] [INFO    ] discord.client: logging in using static token
+13:33:29 | INFO     | discord.client | • logging in using static token
+13:33:30 | INFO     | reborn_bot | • Connected to ComfyUI instance: http://127.0.0.1:8188
+13:33:30 | INFO     | reborn_bot | • ComfyUI pool online | connected=1/1
+13:33:30 | WARNING  | reborn_bot | ! Bot sync enabled but channel was not found | channel_id=None channel_name=・bot-sync
+13:33:30 | INFO     | reborn_bot | • Setup hook completed core startup
+13:33:30 | INFO     | reborn_bot | • Synced 12 commands
+[2026-03-27 13:33:31] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 17433627f9a055ce667b34f0f7be9471).
+13:33:31 | INFO     | discord.gateway | • Shard ID None has connected to Gateway (Session ID: 17433627f9a055ce667b34f0f7be9471).
+13:33:33 | INFO     | reborn_bot | • Bot ready: Hentai-Diffusion#0474
+13:34:22 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+13:34:23 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:34:23 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:34:23 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+13:34:24 | INFO     | reborn_bot | • Submitted prompt b9f9ffaf-bca0-47d4-97eb-dc268925ff7a to http://127.0.0.1:8188
+13:34:37 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+13:34:38 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:34:38 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:34:38 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+13:34:38 | INFO     | reborn_bot | • Submitted prompt 352d117b-00a3-41cf-ae8d-a57080d6cfe1 to http://127.0.0.1:8188
+13:35:46 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=347711050
+13:36:58 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=3659467392
+13:43:18 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+13:43:19 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:43:19 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:43:19 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+13:43:19 | INFO     | reborn_bot | • Submitted prompt 8b46d421-c195-49e2-85e5-fe0c59fa68a0 to http://127.0.0.1:8188
+13:44:47 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=3253768243
+13:46:04 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=Kivels type=txt2img tier=Level 3
+13:46:04 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:46:04 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:46:05 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=Kivels
+13:46:05 | INFO     | reborn_bot | • Submitted prompt 4f3dd336-7ecd-4b80-9192-f272b1830b0e to http://127.0.0.1:8188
+13:47:26 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=Kivels seed=2940558305
+13:48:19 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+13:48:20 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:48:20 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:48:20 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+13:48:20 | INFO     | reborn_bot | • Submitted prompt 57d80ce8-2c46-422e-ae6e-f1999d76f814 to http://127.0.0.1:8188
+13:49:04 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+13:49:05 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+13:49:05 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:49:05 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+13:49:05 | INFO     | reborn_bot | • Submitted prompt 5dcd3127-7e24-4f13-bfb8-b73dc49d1ae4 to http://127.0.0.1:8188
+13:49:48 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+13:49:48 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:49:56 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=600863590
+13:49:57 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:49:57 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+13:49:58 | INFO     | reborn_bot | • Submitted prompt 43409eeb-b309-465d-a72a-a067df0616b8 to http://127.0.0.1:8188
+13:50:51 | INFO     | reborn_bot | • Generation completed | user=Navious (@.navious) workflow=ExpNEW seed=3091138710
+13:52:16 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+13:52:17 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+13:52:17 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:52:17 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+13:52:17 | INFO     | reborn_bot | • Submitted prompt 85d9b875-880a-42ed-be40-1c01a6f8cf7a to http://127.0.0.1:8188
+13:52:20 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=3275149480
+13:52:47 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+13:52:48 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:52:48 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:52:48 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+13:52:49 | INFO     | reborn_bot | • Submitted prompt 987a5d53-21d8-47f0-8315-25e291183aa8 to http://127.0.0.1:8188
+13:53:00 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+13:53:02 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+13:53:03 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+13:53:03 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:53:03 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+13:53:06 | INFO     | reborn_bot | • Submitted prompt 1fec8eb4-401c-44b4-a7f3-b341200392ae to http://127.0.0.1:8188
+13:54:28 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=3188080990
+13:54:51 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+13:54:52 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+13:54:52 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:54:52 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+13:54:53 | INFO     | reborn_bot | • Submitted prompt f2fde37b-cd78-486b-b730-9a19de83684b to http://127.0.0.1:8188
+13:55:03 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+13:55:42 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+13:55:43 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+13:55:43 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:55:43 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+13:55:43 | INFO     | reborn_bot | • Submitted prompt 8376606e-4203-466d-a307-e8948a9d8572 to http://127.0.0.1:8188
+13:56:29 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=3809296700
+13:57:02 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+13:57:03 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+13:57:03 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:57:03 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+13:57:04 | INFO     | reborn_bot | • Submitted prompt 54d7ad22-dc45-4d48-8841-f4d8c6131954 to http://127.0.0.1:8188
+13:57:10 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+13:57:12 | INFO     | reborn_bot | • Generation completed | user=Navious (@.navious) workflow=ExpNEW seed=1607505291
+13:57:25 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+13:57:25 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+13:57:25 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:57:26 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+13:57:26 | INFO     | reborn_bot | • Submitted prompt 83e55c0a-6c04-4cc4-b6d0-ae1698297e1a to http://127.0.0.1:8188
+13:58:24 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=810151702
+13:58:33 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+13:58:34 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+13:58:34 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+13:58:34 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+13:58:41 | INFO     | reborn_bot | • Submitted prompt dbf5ec89-185f-4ee8-8d86-80cdb75c9776 to http://127.0.0.1:8188
+13:59:15 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+13:59:19 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+13:59:20 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+13:59:20 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+13:59:20 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+13:59:21 | INFO     | reborn_bot | • Submitted prompt 7a0fdb5a-7e14-4e81-97bb-3ff7e40f0b3e to http://127.0.0.1:8188
+14:00:05 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+14:00:06 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:00:06 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:00:06 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+14:00:07 | INFO     | reborn_bot | • Submitted prompt caa48ae5-093f-40bc-bb6f-dbf6f5f53f06 to http://127.0.0.1:8188
+14:00:39 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=1371455210
+14:01:25 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=144589658
+14:03:24 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+14:03:25 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:03:25 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:03:26 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+14:03:26 | INFO     | reborn_bot | • Submitted prompt 04a8dcae-7e30-43a8-8660-d2c296af0984 to http://127.0.0.1:8188
+14:04:49 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=1214024660
+14:05:10 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=Kivels type=txt2img tier=Level 3
+14:05:11 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:05:11 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:05:11 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=Kivels
+14:05:11 | INFO     | reborn_bot | • Submitted prompt 0fb3df24-182c-4be8-a99c-3c7789780b3e to http://127.0.0.1:8188
+14:06:32 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=Kivels seed=1654595605
+14:09:50 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+14:09:51 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:09:51 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:09:51 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+14:09:52 | INFO     | reborn_bot | • Submitted prompt 1d259312-2584-4b80-bb0b-dea4dfc0f217 to http://127.0.0.1:8188
+14:11:29 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=1455668548
+14:11:44 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+14:11:45 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:11:45 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:11:45 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+14:11:46 | INFO     | reborn_bot | • Submitted prompt f8f63654-802e-45ef-b59f-f1b71de14164 to http://127.0.0.1:8188
+14:12:43 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:12:44 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:12:44 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:12:44 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:12:47 | INFO     | reborn_bot | • Submitted prompt 8034aa05-a7cc-42aa-a044-9b9f77f4c513 to http://127.0.0.1:8188
+14:13:01 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=76663465
+14:13:32 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:13:54 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=NewV2 type=txt2img tier=Level 3
+14:13:54 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:13:54 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:13:54 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=NewV2
+14:13:55 | INFO     | reborn_bot | • Submitted prompt 0c17f0a1-c144-43bc-8df5-9a2e74efb10b to http://127.0.0.1:8188
+14:15:00 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:15:01 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:15:01 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:15:01 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:15:01 | INFO     | reborn_bot | • Submitted prompt ebd772d0-880b-4d07-816c-fe08d526cb0f to http://127.0.0.1:8188
+14:16:09 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=NewV2 seed=900685937
+14:16:50 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+14:16:51 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:16:51 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:16:51 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+14:16:52 | INFO     | reborn_bot | • Submitted prompt a1daf957-1f1d-4226-8f70-b8ace86b1f6b to http://127.0.0.1:8188
+14:17:02 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:17:03 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=1240174517
+14:17:21 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:17:22 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:17:22 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:17:23 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:17:24 | INFO     | reborn_bot | • Submitted prompt dcfa6fbe-cbee-4394-b557-6ebbb64273f9 to http://127.0.0.1:8188
+14:18:31 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:18:36 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:18:37 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:18:37 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:18:37 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:18:41 | INFO     | reborn_bot | • Submitted prompt b9dddb36-90c9-41a9-b6db-ef1c9f0110cd to http://127.0.0.1:8188
+14:19:24 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:19:28 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:19:28 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:19:28 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:19:29 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:19:30 | INFO     | reborn_bot | • Submitted prompt 744fd8b8-1c65-48e0-ba9b-de0016cf55f1 to http://127.0.0.1:8188
+14:19:56 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+14:19:56 | ERROR    | reborn_bot | x Failed to initialize queued request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 14:19:56] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+14:19:56 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+14:20:07 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+14:20:08 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:20:08 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:20:08 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:20:08 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+14:20:08 | INFO     | reborn_bot | • Submitted prompt 557cf759-0dfa-467d-acaf-cb27b284f7d6 to http://127.0.0.1:8188
+14:20:09 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=2879127457
+14:20:41 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:20:42 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:20:42 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:20:42 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:20:42 | INFO     | reborn_bot | • Submitted prompt 66c9151d-0da6-45a9-8555-bdfa6f8f111c to http://127.0.0.1:8188
+14:21:20 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:21:44 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:21:44 | ERROR    | reborn_bot | x Failed to initialize queued request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 14:21:44] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+14:21:44 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+14:21:50 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+14:21:51 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+14:21:51 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:21:51 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+14:21:52 | INFO     | reborn_bot | • Submitted prompt c657e09f-5d40-4c24-be46-ae15f8c4a373 to http://127.0.0.1:8188
+14:21:56 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:21:57 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:21:57 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:21:57 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:21:58 | INFO     | reborn_bot | • Submitted prompt 0cf53505-65a7-46e5-bf34-8c98bb847b0c to http://127.0.0.1:8188
+14:23:19 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=1331930707
+14:23:53 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:24:20 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:24:21 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:24:21 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:24:21 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:24:21 | INFO     | reborn_bot | • Submitted prompt dcd7a1b0-5d30-4d93-8cf0-cec59e44a60f to http://127.0.0.1:8188
+14:25:35 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:25:40 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:25:40 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:25:40 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:25:41 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:25:45 | INFO     | reborn_bot | • Submitted prompt 2598f11b-c430-486f-8102-a0f479f04931 to http://127.0.0.1:8188
+14:26:42 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=1145080744
+14:27:51 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:27:52 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:27:52 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:27:52 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:27:52 | INFO     | reborn_bot | • Submitted prompt 83971220-2606-48fa-b912-0b64b46adbcb to http://127.0.0.1:8188
+14:28:18 | INFO     | reborn_bot | • Accepted request | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW type=txt2img tier=Public
+14:28:19 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+14:28:19 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:28:19 | INFO     | reborn_bot | • Starting generation | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW
+14:28:20 | INFO     | reborn_bot | • Submitted prompt f66ced2a-fcb0-4fe8-9e74-d2e249e2d273 to http://127.0.0.1:8188
+14:28:52 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=2517009368
+14:29:19 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:29:20 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:29:20 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:29:20 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:29:22 | INFO     | reborn_bot | • Submitted prompt bbd40f47-7849-4a1c-a1dd-ca7ee886b5aa to http://127.0.0.1:8188
+14:29:58 | INFO     | reborn_bot | • Generation completed | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW seed=2462702263
+14:30:40 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:30:49 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:30:49 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:30:49 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:30:50 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:30:53 | INFO     | reborn_bot | • Submitted prompt e471126d-ae8e-4260-a47b-84abf92795c3 to http://127.0.0.1:8188
+14:31:43 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:31:45 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:31:46 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:31:46 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:31:47 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:31:47 | INFO     | reborn_bot | • Submitted prompt c4a0d758-415d-4f15-bbe2-7ef07a8788bd to http://127.0.0.1:8188
+14:32:32 | INFO     | reborn_bot | • Accepted request | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW type=txt2img tier=Public
+14:32:33 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+14:32:33 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:32:33 | INFO     | reborn_bot | • Starting generation | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW
+14:32:33 | INFO     | reborn_bot | • Submitted prompt df8681e6-3ee9-460a-8ed9-c42165de789f to http://127.0.0.1:8188
+14:32:42 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:32:46 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:32:46 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:32:46 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:32:47 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:32:49 | INFO     | reborn_bot | • Submitted prompt 538d05dd-81ca-418d-9842-d6f70694c840 to http://127.0.0.1:8188
+14:33:56 | INFO     | reborn_bot | • Generation completed | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW seed=1175410909
+14:35:05 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:35:09 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+14:35:10 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+14:35:10 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:35:10 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+14:35:12 | INFO     | reborn_bot | • Submitted prompt 3d60f272-998d-4900-8b16-6b9cea1f8432 to http://127.0.0.1:8188
+14:35:19 | INFO     | reborn_bot | • Accepted request | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW type=txt2img tier=Public
+14:35:19 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+14:35:19 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:35:20 | INFO     | reborn_bot | • Starting generation | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW
+14:35:20 | INFO     | reborn_bot | • Submitted prompt 63c76e26-5f2a-49b3-bbe5-10ea33ace32d to http://127.0.0.1:8188
+14:35:49 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+14:35:50 | INFO     | reborn_bot | • Generation completed | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW seed=1359441082
+14:50:23 | INFO     | reborn_bot | • Closing idle ComfyUI connection: http://127.0.0.1:8188
+[2026-03-27 14:54:58] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 17433627f9a055ce667b34f0f7be9471.
+14:54:58 | INFO     | discord.gateway | • Shard ID None has successfully RESUMED session 17433627f9a055ce667b34f0f7be9471.
+14:56:35 | INFO     | reborn_bot | • Accepted request | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW type=txt2img tier=Public
+14:56:36 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+14:56:36 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+14:56:36 | INFO     | reborn_bot | • Starting generation | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW
+14:56:37 | INFO     | reborn_bot | • Connected to ComfyUI instance: http://127.0.0.1:8188
+14:56:37 | INFO     | reborn_bot | • Submitted prompt 79ab29af-9b2a-4aea-9c48-89a7bfc91b48 to http://127.0.0.1:8188
+14:57:55 | INFO     | reborn_bot | • Generation completed | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW seed=2635436031
+14:59:26 | INFO     | reborn_bot | • Accepted request | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW type=txt2img tier=Public
+14:59:26 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+14:59:26 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+14:59:27 | INFO     | reborn_bot | • Starting generation | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW
+14:59:29 | INFO     | reborn_bot | • Submitted prompt db1e81f1-833e-4e88-bb09-f0cfb675586d to http://127.0.0.1:8188
+15:01:11 | INFO     | reborn_bot | • Generation completed | user=Falconeagle (@falconeagle0482_36091) workflow=ExpNEW seed=3598141401
+15:14:31 | INFO     | reborn_bot | • Closing idle ComfyUI connection: http://127.0.0.1:8188
+15:31:48 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+15:31:49 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+15:31:49 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:31:50 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+15:31:50 | INFO     | reborn_bot | • Connected to ComfyUI instance: http://127.0.0.1:8188
+15:31:50 | INFO     | reborn_bot | • Submitted prompt 89e13a1a-9601-4602-8329-be54548cfc0e to http://127.0.0.1:8188
+15:32:39 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=3471421
+15:33:33 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+15:33:34 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+15:33:34 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:33:35 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+15:33:35 | INFO     | reborn_bot | • Submitted prompt 0b1f7655-311d-48c7-aac6-15cedbc478ed to http://127.0.0.1:8188
+15:34:05 | INFO     | reborn_bot | • Accepted request | user=vish (@vishnchips) workflow=ExpNEW type=txt2img tier=Public
+15:34:06 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+15:34:06 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:34:07 | INFO     | reborn_bot | • Starting generation | user=vish (@vishnchips) workflow=ExpNEW
+15:34:07 | INFO     | reborn_bot | • Submitted prompt e00214da-5dea-4f39-ab5d-783cc259a73f to http://127.0.0.1:8188
+15:34:11 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+15:34:12 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+15:34:52 | INFO     | reborn_bot | • Generation completed | user=Navious (@.navious) workflow=ExpNEW seed=2399200816
+15:34:53 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:34:54 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+15:34:54 | INFO     | reborn_bot | • Submitted prompt 5b29b0a6-e49f-4750-b3a6-55cd92bc63e8 to http://127.0.0.1:8188
+15:35:55 | INFO     | reborn_bot | • Generation completed | user=vish (@vishnchips) workflow=ExpNEW seed=12345
+15:37:23 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=583111752
+15:39:11 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+15:39:11 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+15:39:11 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:39:12 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+15:39:12 | INFO     | reborn_bot | • Submitted prompt d76ef7b2-697f-483e-9d94-0f6b9d02d2f0 to http://127.0.0.1:8188
+15:40:03 | INFO     | reborn_bot | • Accepted request | user=vish (@vishnchips) workflow=ExpNEW type=txt2img tier=Public
+15:40:03 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+15:40:03 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:40:04 | INFO     | reborn_bot | • Starting generation | user=vish (@vishnchips) workflow=ExpNEW
+15:40:04 | INFO     | reborn_bot | • Submitted prompt 91f990a5-17ad-49e0-b814-73c3728e820f to http://127.0.0.1:8188
+15:40:29 | INFO     | reborn_bot | • Generation completed | user=Navious (@.navious) workflow=ExpNEW seed=3357748845
+[2026-03-27 15:40:39] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 17433627f9a055ce667b34f0f7be9471.
+15:40:39 | INFO     | discord.gateway | • Shard ID None has successfully RESUMED session 17433627f9a055ce667b34f0f7be9471.
+15:41:33 | INFO     | reborn_bot | • Generation completed | user=vish (@vishnchips) workflow=ExpNEW seed=12345
+15:43:37 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+15:43:38 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+15:43:38 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:43:38 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+15:43:39 | INFO     | reborn_bot | • Submitted prompt 2e53b444-4a88-498f-af84-ccc9711d64cc to http://127.0.0.1:8188
+15:44:03 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+15:44:04 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+15:44:04 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:44:04 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+15:44:05 | INFO     | reborn_bot | • Submitted prompt 75a752c6-9c2c-4e5e-9ae2-440c2735b5af to http://127.0.0.1:8188
+15:44:46 | INFO     | reborn_bot | • Generation completed | user=Navious (@.navious) workflow=ExpNEW seed=1384710269
+15:45:44 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1905519452
+15:51:41 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+15:51:41 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+15:51:41 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:51:42 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+15:51:43 | INFO     | reborn_bot | • Submitted prompt cd77e944-78e4-4b96-8ec0-8db7e6f5f2bb to http://127.0.0.1:8188
+15:52:58 | INFO     | reborn_bot | • Generation completed | user=Navious (@.navious) workflow=ExpNEW seed=2158006918
+15:55:07 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+15:55:07 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+15:55:07 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:55:08 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+15:55:10 | INFO     | reborn_bot | • Submitted prompt 2e6fd1a5-4f40-4412-9d31-86d23e9285e6 to http://127.0.0.1:8188
+15:55:58 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+15:56:07 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+15:56:08 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+15:56:08 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:56:09 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+15:56:09 | INFO     | reborn_bot | • Submitted prompt 3e64f7d1-3350-48d6-aab7-5cbac68dc996 to http://127.0.0.1:8188
+15:56:30 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+15:56:31 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+15:56:31 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:56:31 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+15:56:32 | INFO     | reborn_bot | • Submitted prompt 2387679f-6dc8-4fa4-9617-7f70b9fb9267 to http://127.0.0.1:8188
+15:57:06 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=4081269249
+15:57:42 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+15:57:46 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+15:57:47 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+15:57:47 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:57:47 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+[2026-03-27 15:57:48] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+15:57:48 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 15:57:49] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.41 seconds.
+15:57:49 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.41 seconds.
+15:57:50 | INFO     | reborn_bot | • Submitted prompt 6ee8f76d-f3fa-4df7-b87c-a28bcd64cd64 to http://127.0.0.1:8188
+15:58:27 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+15:58:30 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+15:58:31 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+15:58:31 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+15:58:32 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+[2026-03-27 15:58:33] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+15:58:33 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 15:58:34] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+15:58:34 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+15:58:38 | INFO     | reborn_bot | • Submitted prompt 7400daf4-0645-4f7c-a6cc-3a2b699400f3 to http://127.0.0.1:8188
+15:58:40 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+15:58:40 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+15:58:40 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+15:58:41 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+15:58:41 | INFO     | reborn_bot | • Submitted prompt 3574d1eb-93de-44f3-a976-768a7c8425ef to http://127.0.0.1:8188
+15:59:23 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:00:14 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:00:14 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:00:14 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:00:15 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:00:16 | INFO     | reborn_bot | • Submitted prompt 874a9918-9ef2-4d42-9b83-058e47e779a1 to http://127.0.0.1:8188
+16:00:24 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3348591182
+16:00:59 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:01:04 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:01:04 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:01:04 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:01:05 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:01:08 | INFO     | reborn_bot | • Submitted prompt a8f85ba4-f6e8-4ed8-b030-dbb7db797bfe to http://127.0.0.1:8188
+16:02:06 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:02:27 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:02:28 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:02:28 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:02:29 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:02:29 | INFO     | reborn_bot | • Submitted prompt f12f1487-5257-447d-84e6-61bce20eb2e7 to http://127.0.0.1:8188
+16:02:34 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+16:02:34 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:02:34 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:02:35 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+16:02:36 | INFO     | reborn_bot | • Submitted prompt 11347f73-e5e2-4690-b607-ebeaa5c6dc69 to http://127.0.0.1:8188
+[2026-03-27 16:02:36] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:02:36 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 16:02:37] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.36 seconds.
+16:02:37 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.36 seconds.
+16:03:02 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:03:03 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:03:08 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:03:10 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:03:10 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:03:11 | INFO     | reborn_bot | • Submitted prompt 40f98dab-ff1b-40b0-bfc2-abffaf7524c5 to http://127.0.0.1:8188
+[2026-03-27 16:03:13] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:03:13 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:03:13 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:03:14 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+[2026-03-27 16:03:15] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:03:15 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:04:51 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=3471421
+16:04:51 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:04:52 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:04:55 | INFO     | reborn_bot | • Submitted prompt 38667709-c422-4bb7-b6ad-1c2d843c7c92 to http://127.0.0.1:8188
+16:05:31 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+16:05:32 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:05:52 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2056354989
+16:05:53 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:05:54 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+16:05:54 | INFO     | reborn_bot | • Submitted prompt 350dc313-7006-48ab-91e5-5754c48205aa to http://127.0.0.1:8188
+16:06:33 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:06:42 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:06:42 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:06:42 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:06:43 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:06:43 | INFO     | reborn_bot | • Submitted prompt 4b7333d6-ef05-4e15-b80b-3d078c88529a to http://127.0.0.1:8188
+16:07:18 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:07:19 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:07:32 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=3471421
+16:07:32 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:07:33 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:07:33 | INFO     | reborn_bot | • Submitted prompt b420eec2-c2f9-41d6-82b2-cd54b595c785 to http://127.0.0.1:8188
+16:08:30 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=698127094
+16:08:33 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:08:33 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:08:33 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:08:34 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:08:35 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW type=txt2img tier=Level 3
+16:08:35 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+[2026-03-27 16:08:36] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+16:08:36 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+16:08:37 | INFO     | reborn_bot | • Submitted prompt 1b262fd6-5b74-4463-ba99-365d848996df to http://127.0.0.1:8188
+[2026-03-27 16:08:38] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:08:38 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:09:18 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1072765472
+16:09:19 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:09:19 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW
+16:09:20 | INFO     | reborn_bot | • Submitted prompt d268f3cb-8c28-44ad-a335-4eaa4307f14e to http://127.0.0.1:8188
+16:10:07 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=951836921
+16:10:09 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:10:09 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:10:09 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:10:11 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:10:11 | INFO     | reborn_bot | • Submitted prompt ffb6a4d6-3bd2-4869-9124-80440cc87e2f to http://127.0.0.1:8188
+[2026-03-27 16:10:13] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.60 seconds.
+16:10:13 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.60 seconds.
+16:10:21 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:10:21 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:11:20 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=ExpNEW seed=349519799
+16:11:21 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:11:21 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:11:26 | INFO     | reborn_bot | • Submitted prompt ed9e62f2-c139-42ed-aae1-d0b478db479c to http://127.0.0.1:8188
+16:12:17 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3499896375
+16:12:36 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:12:37 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:12:37 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:12:37 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:12:38 | INFO     | reborn_bot | • Submitted prompt e438a19e-581f-414f-a64b-88e3376e1ba3 to http://127.0.0.1:8188
+16:13:05 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:13:08 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:13:09 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:13:09 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:13:10 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:13:10 | INFO     | reborn_bot | • Submitted prompt c0692bd5-e597-4782-b6a3-6aa0eda4cc8a to http://127.0.0.1:8188
+[2026-03-27 16:13:11] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.67 seconds.
+16:13:11 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.67 seconds.
+16:13:45 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:13:45 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:13:47 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:13:48 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=2
+16:14:04 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1145118883
+16:14:04 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=1
+16:14:05 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:14:05 | INFO     | reborn_bot | • Submitted prompt 7d6ba33d-d8ea-4fa3-8eb6-b93ba3877671 to http://127.0.0.1:8188
+16:15:11 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:15:12 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:15:13 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:15:13 | INFO     | reborn_bot | • Submitted prompt 42e8d5b3-c376-4cca-9bb9-7b42609f1aad to http://127.0.0.1:8188
+16:16:03 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:16:04 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:16:16 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3488703639
+16:16:17 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:16:18 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:16:18 | INFO     | reborn_bot | • Submitted prompt 8f43bcff-2243-4101-957b-10d53f079b37 to http://127.0.0.1:8188
+16:16:39 | INFO     | reborn_bot | • Accepted request | user=Kivels (@kivels) workflow=IMG2VID type=img2img tier=Level 3
+16:16:39 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:17:13 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=501201122
+16:17:13 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:17:14 | INFO     | reborn_bot | • Starting generation | user=Kivels (@kivels) workflow=IMG2VID
+16:17:17 | INFO     | reborn_bot | • Submitted prompt 67088350-cdb9-4905-8d8d-895e5370ce3a to http://127.0.0.1:8188
+16:18:01 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:18:04 | INFO     | reborn_bot | • Generation completed | user=Kivels (@kivels) workflow=IMG2VID seed=1791311680
+16:18:09 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:18:10 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:18:10 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:18:10 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:18:13 | INFO     | reborn_bot | • Submitted prompt 18d57533-a894-4e0d-b2c5-dde6abdcc447 to http://127.0.0.1:8188
+16:19:21 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=1665356937
+16:19:38 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:19:38 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:19:38 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:19:39 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:19:41 | INFO     | reborn_bot | • Submitted prompt ea1fd16d-a89f-45d0-87b1-2eac5c53373c to http://127.0.0.1:8188
+16:20:46 | INFO     | reborn_bot | • Accepted request | user=Kivels (@kivels) workflow=IMG2VID type=img2img tier=Level 3
+16:20:46 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:20:46 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:20:47 | INFO     | reborn_bot | • Starting generation | user=Kivels (@kivels) workflow=IMG2VID
+16:20:50 | INFO     | reborn_bot | • Submitted prompt d336bc42-1de1-4ac1-a0f2-5586c2e00a5f to http://127.0.0.1:8188
+16:20:59 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:21:22 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:21:22 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:21:22 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:21:23 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:21:23 | INFO     | reborn_bot | • Submitted prompt ef166866-cb87-4d3c-b770-28c1a5b50bcf to http://127.0.0.1:8188
+16:21:35 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+16:21:35 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:25:26 | INFO     | reborn_bot | • Generation completed | user=Kivels (@kivels) workflow=IMG2VID seed=4211683932
+16:25:27 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:25:28 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+16:25:28 | INFO     | reborn_bot | • Submitted prompt 860b2821-61e9-4683-8042-ad0bab46ef54 to http://127.0.0.1:8188
+16:26:39 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=1345350080
+16:27:59 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:28:00 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:28:00 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:28:00 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:28:03 | INFO     | reborn_bot | • Submitted prompt 7f63bcd0-eb76-4a03-932b-54ac8681454e to http://127.0.0.1:8188
+16:28:54 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=349519799
+16:29:38 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:30:14 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:30:14 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:30:14 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:30:15 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:30:16 | INFO     | reborn_bot | • Submitted prompt e3fcb537-b2b1-4983-bf6a-fac1f98c400e to http://127.0.0.1:8188
+16:31:23 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:32:22 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:32:22 | ERROR    | reborn_bot | x Failed to initialize queued request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 16:32:22] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+16:32:22 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+16:33:53 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=IMG2VID type=img2img tier=Level 4
+16:33:54 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:33:54 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:33:55 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=IMG2VID
+16:33:57 | INFO     | reborn_bot | • Submitted prompt 64422bc5-1813-4b82-b72e-a6dbe81b3905 to http://127.0.0.1:8188
+16:36:27 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:36:28 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:36:28 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:36:29 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:36:29 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:36:29 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:36:30 | INFO     | reborn_bot | • Submitted prompt a06863a0-fa07-4aa4-a05e-73f1e3456ffd to http://127.0.0.1:8188
+[2026-03-27 16:36:30] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+16:36:30 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+[2026-03-27 16:36:31] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.45 seconds.
+16:36:31 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.45 seconds.
+[2026-03-27 16:36:32] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.41 seconds.
+16:36:32 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.41 seconds.
+[2026-03-27 16:36:33] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.43 seconds.
+16:36:33 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.43 seconds.
+16:36:34 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:36:34 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 16:36:35] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+16:36:35 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+16:36:37 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:36:38 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=2
+16:37:38 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=IMG2VID seed=326591957
+16:37:39 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=1
+16:37:40 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:37:40 | INFO     | reborn_bot | • Submitted prompt b5b637bb-6d66-40da-a1fa-91a0602af1ac to http://127.0.0.1:8188
+16:39:38 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=495169994
+16:39:41 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:39:41 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:39:42 | INFO     | reborn_bot | • Submitted prompt 7b8db50f-0b0c-4cfe-a847-c909c29cbc8a to http://127.0.0.1:8188
+16:40:00 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=IMG2VID type=img2img tier=Level 4
+16:40:01 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:42:14 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=719217781
+16:42:16 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:42:18 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=IMG2VID
+16:42:20 | INFO     | reborn_bot | • Submitted prompt 53e78129-eb47-49f8-af39-560b0be5d9b7 to http://127.0.0.1:8188
+[2026-03-27 16:42:20] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:42:20 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:44:43 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1877421133
+16:47:57 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=IMG2VID seed=1388087475
+16:52:58 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+16:52:59 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:52:59 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:53:00 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+16:53:01 | INFO     | reborn_bot | • Submitted prompt 72ec44d6-866f-4480-bddd-a9bef5416bc9 to http://127.0.0.1:8188
+[2026-03-27 16:53:04] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:53:04 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:54:16 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:54:17 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:54:17 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+16:54:18 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:54:19 | INFO     | reborn_bot | • Submitted prompt 8e4aa54a-c40b-446f-b176-9b4d7f385587 to http://127.0.0.1:8188
+[2026-03-27 16:54:20] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:54:20 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 16:54:21] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:54:21 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:56:33 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+16:56:33 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:56:37 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=349519799
+16:56:38 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:56:39 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+16:56:40 | INFO     | reborn_bot | • Submitted prompt 291628a9-ac0c-48d1-8981-e0384be20a6f to http://127.0.0.1:8188
+[2026-03-27 16:56:41] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:56:41 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 16:56:42] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:56:42 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:57:50 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+16:57:54 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+16:57:54 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+16:57:54 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+[2026-03-27 16:57:55] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+16:57:55 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+16:57:56 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+[2026-03-27 16:57:57] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:57:57 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:57:57 | INFO     | reborn_bot | • Submitted prompt db17a18b-2f84-4983-a9a3-8cb0bc380e1a to http://127.0.0.1:8188
+[2026-03-27 16:57:58] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:57:58 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 16:57:59] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+16:57:59 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+[2026-03-27 16:58:00] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+16:58:00 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+[2026-03-27 16:58:01] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.48 seconds.
+16:58:01 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.48 seconds.
+16:58:16 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+16:58:17 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+16:59:15 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2825083575
+16:59:16 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+16:59:17 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+16:59:17 | INFO     | reborn_bot | • Submitted prompt 142cf087-6042-417e-8ea8-2b864326593f to http://127.0.0.1:8188
+[2026-03-27 16:59:19] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:59:19 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 16:59:20] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+16:59:20 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:00:10 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:00:11 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:00:14 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:00:14 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:00:14] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:00:14 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:00:43 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:00:43 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=2
+17:00:56 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=2906913896
+17:00:57 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=1
+17:00:58 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:00:59 | INFO     | reborn_bot | • Submitted prompt 9ef70ab1-cf86-4282-96b8-03a0c8e0cc62 to http://127.0.0.1:8188
+17:01:37 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+17:01:39 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:01:42 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:01:42 | INFO     | reborn_bot | • Submitted prompt 9468b0bf-911b-4a07-b7dd-007d80f3f26d to http://127.0.0.1:8188
+17:02:29 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1313216656
+17:03:08 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+17:03:08 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+17:03:08 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:03:09 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+17:03:09 | INFO     | reborn_bot | • Submitted prompt 4193d273-e7a9-4f82-8b86-f2c4ffe41137 to http://127.0.0.1:8188
+[2026-03-27 17:03:10] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:03:10 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:03:11] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:03:11 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:03:12] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.55 seconds.
+17:03:12 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.55 seconds.
+[2026-03-27 17:03:13] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:03:13 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:03:16 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3897131333
+17:03:40 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:03:41 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:03:41 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:03:42 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:03:42 | INFO     | reborn_bot | • Submitted prompt 94158ad5-5caf-4f68-92bd-96af4f0a2dde to http://127.0.0.1:8188
+[2026-03-27 17:03:42] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.60 seconds.
+17:03:42 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.60 seconds.
+[2026-03-27 17:03:43] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.53 seconds.
+17:03:43 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.53 seconds.
+[2026-03-27 17:03:44] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.48 seconds.
+17:03:44 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.48 seconds.
+[2026-03-27 17:03:45] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:03:45 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:03:46 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:03:46 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:03:46] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+17:03:46 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+[2026-03-27 17:03:47] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:03:47 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:03:48] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:03:48 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+[2026-03-27 17:03:48] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+17:03:48 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+[2026-03-27 17:03:50] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:03:50 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:03:51] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+17:03:51 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+[2026-03-27 17:03:52] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:03:52 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:03:52 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:03:53 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:03:53] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:03:53 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:04:11 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:04:12 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:04:36 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=599422976
+17:04:37 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:04:38 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:04:38 | INFO     | reborn_bot | • Submitted prompt 2e48434b-c65f-4296-931b-3709069c243a to http://127.0.0.1:8188
+[2026-03-27 17:04:40] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:04:40 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:04:41] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.37 seconds.
+17:04:41 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.37 seconds.
+17:04:46 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+17:04:46 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+17:05:26 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1229470392
+17:05:27 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:05:28 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+17:05:31 | INFO     | reborn_bot | • Submitted prompt 4a5376c0-799a-4acc-84bb-32fe46c6d895 to http://127.0.0.1:8188
+[2026-03-27 17:05:31] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:05:31 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:05:49 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+17:05:50 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:06:48 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:06:48 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=2
+17:07:10 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3534895902
+17:07:11 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=1
+17:07:12 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+17:07:12 | INFO     | reborn_bot | • Submitted prompt 76ccc94e-f399-4ea5-bc99-98f3a7ac8ae5 to http://127.0.0.1:8188
+[2026-03-27 17:07:15] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:07:15 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:08:18 | INFO     | reborn_bot | • Generation completed | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW seed=1393810348
+17:08:19 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:08:20 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:08:20 | INFO     | reborn_bot | • Submitted prompt 48c3b47c-c141-444c-a674-9a43f8ef84f4 to http://127.0.0.1:8188
+[2026-03-27 17:08:22] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+17:08:22 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+[2026-03-27 17:08:23] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.37 seconds.
+17:08:23 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.37 seconds.
+17:08:35 | INFO     | reborn_bot | • Accepted request | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW type=txt2img tier=Level 4
+17:08:36 | INFO     | reborn_bot | • Enqueued request | priority=-40 pending=1
+17:09:14 | INFO     | reborn_bot | • Generation completed | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW seed=2312849557
+17:09:15 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:09:16 | INFO     | reborn_bot | • Starting generation | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW
+[2026-03-27 17:09:18] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+17:09:18 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+[2026-03-27 17:09:19] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.51 seconds.
+17:09:19 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.51 seconds.
+17:09:22 | INFO     | reborn_bot | • Submitted prompt 1b85f41d-c076-484c-b43e-8a83ae0ee36c to http://127.0.0.1:8188
+17:09:45 | INFO     | reborn_bot | • Cancelling session | user=Chewing Ass Alduin-Chan (@padoru_and_hornich_my_lover) workflow=ExpNEW source=button
+17:09:47 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3716032741
+17:10:23 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+17:10:23 | ERROR    | reborn_bot | x Failed to initialize queued request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:10:23] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:10:23 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:10:57 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:10:58 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:10:58 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:10:59 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:10:59 | INFO     | reborn_bot | • Submitted prompt 94fd97ba-1c96-438f-b90d-2f9c3cb8935c to http://127.0.0.1:8188
+[2026-03-27 17:11:00] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.51 seconds.
+17:11:00 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.51 seconds.
+[2026-03-27 17:11:01] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:11:01 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:11:02] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:11:02 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:11:03] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:11:03 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:12:36 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1506488507
+17:14:06 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:14:07 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:14:07 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:14:08 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:14:08 | INFO     | reborn_bot | • Submitted prompt 54b3d239-8743-4f2e-8e7b-cfa06c358094 to http://127.0.0.1:8188
+[2026-03-27 17:14:09] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:14:09 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:14:11] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.54 seconds.
+17:14:11 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.54 seconds.
+[2026-03-27 17:14:12] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+17:14:12 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+[2026-03-27 17:14:13] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.46 seconds.
+17:14:13 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.46 seconds.
+[2026-03-27 17:14:14] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.41 seconds.
+17:14:14 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.41 seconds.
+[2026-03-27 17:14:15] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.45 seconds.
+17:14:15 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.45 seconds.
+17:14:16 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+[2026-03-27 17:14:16] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.43 seconds.
+17:14:16 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.43 seconds.
+17:14:16 | ERROR    | reborn_bot | x Failed to initialize queued request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:14:16] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:14:16 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:14:17] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.42 seconds.
+17:14:17 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.42 seconds.
+[2026-03-27 17:14:18] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.36 seconds.
+17:14:18 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.36 seconds.
+17:14:19 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:14:19 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:14:19] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:14:19 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:14:20] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.52 seconds.
+17:14:20 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.52 seconds.
+[2026-03-27 17:14:21] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:14:21 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:14:22 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:14:22 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:14:22 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+[2026-03-27 17:14:23] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.33 seconds.
+17:14:23 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.33 seconds.
+[2026-03-27 17:14:24] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:14:24 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:14:25 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+[2026-03-27 17:14:25] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:14:25 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:14:25 | INFO     | reborn_bot | • Submitted prompt 8ba8e739-d198-4a5c-baa9-f9d5f7f37380 to http://127.0.0.1:8188
+[2026-03-27 17:14:26] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:14:26 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:14:27] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+17:14:27 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+[2026-03-27 17:14:28] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:14:28 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:14:29] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:14:29 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:14:30] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.36 seconds.
+17:14:30 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.36 seconds.
+17:15:11 | INFO     | reborn_bot | • Cancelling session | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW source=button
+17:16:01 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=564633740
+17:17:04 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:17:05 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:17:05 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:17:06 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:17:06 | INFO     | reborn_bot | • Submitted prompt 560f73e7-96e3-447a-9ddb-2d8eb089caf2 to http://127.0.0.1:8188
+[2026-03-27 17:17:07] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.62 seconds.
+17:17:07 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.62 seconds.
+[2026-03-27 17:17:08] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:17:08 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:17:09] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:17:09 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:17:10] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:17:10 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:18:29 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2633672359
+17:19:04 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:19:05 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:19:05 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:19:06 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:19:06 | INFO     | reborn_bot | • Submitted prompt c76b712c-fc3f-4c00-9c11-7a65fa87eef3 to http://127.0.0.1:8188
+[2026-03-27 17:19:07] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:19:07 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:19:09] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.57 seconds.
+17:19:09 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.57 seconds.
+[2026-03-27 17:19:10] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.45 seconds.
+17:19:10 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.45 seconds.
+17:20:53 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=3976314299
+17:21:32 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:21:33 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:21:33 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:21:34 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:21:34 | INFO     | reborn_bot | • Submitted prompt 60600d73-26ba-41c3-b6c5-824dc7f1024d to http://127.0.0.1:8188
+[2026-03-27 17:21:35] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:21:35 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+[2026-03-27 17:21:36] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:21:36 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:21:37] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+17:21:37 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+[2026-03-27 17:21:38] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:21:38 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:22:32 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=885926503
+17:23:31 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:23:31 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:23:32] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:23:32 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:23:36 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:23:36 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:23:36 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:23:37 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:23:38 | INFO     | reborn_bot | • Submitted prompt f5ffae02-b86e-4465-9139-b632c14764c1 to http://127.0.0.1:8188
+[2026-03-27 17:23:39] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+17:23:39 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.35 seconds.
+[2026-03-27 17:23:40] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.61 seconds.
+17:23:40 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.61 seconds.
+[2026-03-27 17:23:42] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:23:42 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:23:43] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.62 seconds.
+17:23:43 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.62 seconds.
+[2026-03-27 17:23:45] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:23:45 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:23:45 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+[2026-03-27 17:23:45] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.46 seconds.
+17:23:45 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.46 seconds.
+17:23:46 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:23:46 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+[2026-03-27 17:23:47] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:23:47 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+[2026-03-27 17:23:47] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+17:23:47 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+17:23:48 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:23:49 | ERROR    | reborn_bot | x Failed to initialize queued request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+Traceback (most recent call last):
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:23:49] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:23:49 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+[2026-03-27 17:23:49] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+17:23:49 | ERROR    | discord.app_commands.tree | x Ignoring exception in command 'rgen'
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 134, in rgen
+    await _run_generation(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\commands.py", line 48, in _run_generation
+    await bot.handle_generation_request(
+  File "C:\AI\Hentai-Diffusion-Rebuilt - Copy\reborn_bot\bot.py", line 760, in handle_generation_request
+    await interaction.response.send_message(embed=embed, view=view)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\poma9\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'rgen' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-03-27 17:23:49] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+17:23:49 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.49 seconds.
+[2026-03-27 17:23:51] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:23:51 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:23:51 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+[2026-03-27 17:23:52] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:23:52 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:23:52 | INFO     | reborn_bot | • Submitted prompt 3414f58b-5a3c-448c-b52f-4e0327576837 to http://127.0.0.1:8188
+[2026-03-27 17:23:53] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:23:53 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+[2026-03-27 17:23:54] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:23:54 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+[2026-03-27 17:23:55] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:23:55 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:23:56] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.33 seconds.
+17:23:56 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.33 seconds.
+[2026-03-27 17:23:57] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+17:23:57 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.31 seconds.
+17:24:27 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2841378138
+17:25:20 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2450209985
+17:27:11 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:27:12 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:27:12 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:27:13 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:27:13 | INFO     | reborn_bot | • Submitted prompt f51622bb-eece-4d13-bedd-f8b3e13a567c to http://127.0.0.1:8188
+[2026-03-27 17:27:14] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.50 seconds.
+17:27:14 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.50 seconds.
+[2026-03-27 17:27:15] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:27:15 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:27:16] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:27:16 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:27:17] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:27:17 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:29:09 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2933650002
+17:30:15 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:30:16 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:30:16 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:30:17 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:30:18 | INFO     | reborn_bot | • Submitted prompt 9d673125-09f2-483a-ba6c-7edbb7c0b1a1 to http://127.0.0.1:8188
+[2026-03-27 17:30:18] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:30:18 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:30:20] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.39 seconds.
+17:30:20 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.39 seconds.
+[2026-03-27 17:30:21] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:30:21 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.44 seconds.
+17:31:19 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1638206006
+17:32:31 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:32:32 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:32:32 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:32:33 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:32:33 | INFO     | reborn_bot | • Submitted prompt 454fde33-0849-49c4-a2de-188c418d7a86 to http://127.0.0.1:8188
+[2026-03-27 17:32:37] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:32:37 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:33:47 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1106394118
+17:34:28 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:34:29 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:34:29 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:34:30 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:34:30 | INFO     | reborn_bot | • Submitted prompt 116891fc-5649-4d77-a8f9-ee960d9e78c9 to http://127.0.0.1:8188
+[2026-03-27 17:34:31] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+17:34:31 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.40 seconds.
+[2026-03-27 17:34:33] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.68 seconds.
+17:34:33 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.68 seconds.
+[2026-03-27 17:34:34] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:34:34 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.47 seconds.
+17:36:53 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:36:54 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:36:54 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:36:55 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:36:55 | INFO     | reborn_bot | • Submitted prompt 70a31262-99bd-483e-a4cc-03a425590de5 to http://127.0.0.1:8188
+[2026-03-27 17:36:57] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:36:57 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:36:58] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.55 seconds.
+17:36:58 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.55 seconds.
+[2026-03-27 17:36:59] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.52 seconds.
+17:36:59 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.52 seconds.
+17:37:22 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=334405398
+17:39:11 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=2054130200
+17:40:50 | INFO     | reborn_bot | • Accepted request | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW type=txt2img tier=Level 3
+17:40:51 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:40:51 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:40:52 | INFO     | reborn_bot | • Starting generation | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW
+17:40:52 | INFO     | reborn_bot | • Submitted prompt 96030b5e-8a85-41c5-adab-d3ecb820341c to http://127.0.0.1:8188
+[2026-03-27 17:40:55] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:40:55 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:40:56] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:40:56 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:41:31 | INFO     | reborn_bot | • Accepted request | user=Navious (@.navious) workflow=ExpNEW type=txt2img tier=Level 2
+17:41:32 | INFO     | reborn_bot | • Enqueued request | priority=0 pending=1
+17:41:32 | INFO     | reborn_bot | • Dequeued request for worker 0 | pending=0
+17:41:33 | INFO     | reborn_bot | • Starting generation | user=Navious (@.navious) workflow=ExpNEW
+17:41:34 | INFO     | reborn_bot | • Submitted prompt 5ca099e5-0d47-4748-aba8-124605aafe8f to http://127.0.0.1:8188
+[2026-03-27 17:41:34] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.56 seconds.
+17:41:34 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.56 seconds.
+[2026-03-27 17:41:36] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:41:36 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:41:36] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:41:36 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:41:37] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+17:41:37 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+17:42:23 | INFO     | reborn_bot | • Accepted request | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW type=txt2img tier=Level 3
+17:42:24 | INFO     | reborn_bot | • Enqueued request | priority=-30 pending=1
+17:43:09 | INFO     | reborn_bot | • Generation completed | user=遇见 (@liulangmiao_5280_10745) workflow=ExpNEW seed=1386181010
+17:43:10 | INFO     | reborn_bot | • Dequeued request for worker 1 | pending=0
+17:43:11 | INFO     | reborn_bot | • Starting generation | user=การลุกฮือของเสื้อผ้าและเตารีด (@ramanere) workflow=OldNEW
+17:43:11 | INFO     | reborn_bot | • Submitted prompt d01176c4-690e-4ad1-bbcd-c4917b33a4c4 to http://127.0.0.1:8188
+[2026-03-27 17:43:13] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+17:43:13 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.30 seconds.
+[2026-03-27 17:43:14] [WARNING ] discord.http: We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
+17:43:14 | WARNING  | discord.http | ! We are being rate limited. GET https://discord.com/api/v10/channels/1406937891203977358/messages responded with 429. Retrying in 0.32 seconds.
