@@ -759,8 +759,7 @@ class RebornComfyBot(commands.Bot):
         embed = self._build_generation_embed(session, status="🕒 Queued", title="Generation queued", color=ui_embeds.PROGRESS_COLOR)
 
         try:
-            await interaction.edit_original_response(embed=embed, view=view)
-            session.message = await interaction.original_response()
+            session.message = await interaction.edit_original_response(embed=embed, view=view)
             session.metadata["view"] = view
 
             await self.queue.enqueue(
