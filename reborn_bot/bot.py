@@ -1037,7 +1037,7 @@ class RebornComfyBot(commands.Bot):
             logger.debug("Queue refresh loop failed: %s", exc)
 
     async def _refresh_queue_views(self) -> None:
-        state = await self._get_synced_state(force=True)
+        state = await self._get_synced_state(force=False)
         total = state.total_queue()
         positions = {entry.session_id: index for index, entry in enumerate(state.open_queue, start=1)}
         sessions = [session for group in self.active_sessions.values() for session in group]

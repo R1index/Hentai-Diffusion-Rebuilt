@@ -145,7 +145,7 @@ class BotSyncService:
         if not self.enabled:
             return
         while not cancel_event.is_set():
-            state = await self.get_state(client, force=True)
+            state = await self.get_state(client, force=False)
             position = state.queue_position(session_id)
             if position is None:
                 return
