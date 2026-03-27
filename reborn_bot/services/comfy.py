@@ -302,6 +302,14 @@ class ComfyUIClient:
                 videos.append(item)
             else:
                 images.append(item)
+
+        for item in node_output.get("files", []):
+            if not isinstance(item, dict) or not item.get("filename"):
+                continue
+            if self._is_video_filename(item["filename"]):
+                videos.append(item)
+            else:
+                images.append(item)
         return videos, images
 
     @staticmethod
@@ -346,12 +354,26 @@ class ComfyUIClient:
             await asyncio.sleep(delay)
         return None
 
-    async def _download_output_file(self, session: aiohttp.ClientSession, instance: ComfyUIInstance, item: dict) -> Optional[discord.File]:
-        async with session.get(self._build_file_url(instance, item)) as response:
-            if response.status != 200:
-                return None
-            payload_bytes = await response.read()
-            return discord.File(io.BytesIO(payload_bytes), filename=item.get("filename", "output.bin"))
+    async def _download_output_file(
+        self,
+        session: aiohttp.ClientSession,
+        instance: ComfyUIInstance,
+        item: dict,
+        *,
+        attempts: int = 1,
+        delay: float = 0.35,
+    ) -> Optional[discord.File]:
+        url = self._build_file_url(instance, item)
+        for _ in range(max(attempts, 1)):
+            try:
+                async with session.get(url) as response:
+                    if response.status == 200:
+                        payload_bytes = await response.read()
+                        return discord.File(io.BytesIO(payload_bytes), filename=item.get("filename", "output.bin"))
+            except Exception as exc:
+                logger.debug("Failed to download ComfyUI output %s: %s", item.get("filename"), exc)
+            await asyncio.sleep(delay)
+        return None
 
     async def _resolve_final_outputs(
         self,
@@ -367,8 +389,8 @@ class ComfyUIClient:
         history_payload = await self._fetch_history_payload(
             instance,
             prompt_id,
-            attempts=24 if video_only else 8,
-            delay=0.75 if video_only else 0.4,
+            attempts=80 if video_only else 8,
+            delay=1.0 if video_only else 0.4,
         )
         workflow_json: Optional[dict[str, Any]] = None
         if isinstance(history_payload, dict):
@@ -413,7 +435,13 @@ class ComfyUIClient:
 
         resolved: list[tuple[str, discord.File]] = []
         for _, kind, item, _, _ in ordered:
-            file = await self._download_output_file(session, instance, item)
+            file = await self._download_output_file(
+                session,
+                instance,
+                item,
+                attempts=20 if (video_only or kind == "video") else 3,
+                delay=0.75 if (video_only or kind == "video") else 0.35,
+            )
             if file is None:
                 continue
             status = "🎬 Video ready" if kind == "video" else "🖼 Image ready"
