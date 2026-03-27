@@ -623,12 +623,14 @@ class RebornComfyBot(commands.Bot):
             await interaction.response.send_message("This workflow requires a source image.", ephemeral=True)
             return
 
+        await interaction.response.defer(thinking=True)
+
         tier = await self.security.determine_tier(interaction)
 
         if is_img2vid:
             img2vid_limit = await self.security.get_img2vid_daily_limit(interaction)
             if img2vid_limit is None:
-                await interaction.response.send_message("You do not have IMG2VID access.", ephemeral=True)
+                await interaction.followup.send("You do not have IMG2VID access.", ephemeral=True)
                 return
         else:
             img2vid_limit = None
@@ -653,24 +655,24 @@ class RebornComfyBot(commands.Bot):
 
         resolved_workflow = workflow_name or self.workflow_service.get_default_workflow(workflow_type)
         if not resolved_workflow:
-            await interaction.response.send_message(f"No workflow configured for type `{workflow_type}`.", ephemeral=True)
+            await interaction.followup.send(f"No workflow configured for type `{workflow_type}`.", ephemeral=True)
             return
 
         workflow_cfg = self.workflow_service.get_workflow(resolved_workflow)
         if not workflow_cfg:
-            await interaction.response.send_message(f"Workflow `{resolved_workflow}` not found.", ephemeral=True)
+            await interaction.followup.send(f"Workflow `{resolved_workflow}` not found.", ephemeral=True)
             return
 
         valid, error = self.security.validate_workflow_access(interaction.user, workflow_cfg, final_settings)
         if not valid:
-            await interaction.response.send_message(error, ephemeral=True)
+            await interaction.followup.send(error, ephemeral=True)
             return
 
         user_lock = self._get_user_lock(user_id)
         async with user_lock:
             current_sessions = self.active_sessions.get(user_id, [])
             if len(current_sessions) >= tier.max_parallel_generations:
-                await interaction.response.send_message(
+                await interaction.followup.send(
                     f"You already have **{len(current_sessions)}** active/queued requests. Your tier allows **{tier.max_parallel_generations}**.",
                     ephemeral=True,
                 )
@@ -679,7 +681,7 @@ class RebornComfyBot(commands.Bot):
             if tier.daily_limit is not None:
                 current_daily = self.usage.get_generation_count(user_id)
                 if current_daily >= tier.daily_limit:
-                    await interaction.response.send_message(
+                    await interaction.followup.send(
                         f"Daily limit reached: **{current_daily}/{tier.daily_limit}**. Reset in {self.usage.time_until_reset()}.",
                         ephemeral=True,
                     )
@@ -688,7 +690,7 @@ class RebornComfyBot(commands.Bot):
             if is_img2vid and img2vid_limit is not None:
                 img2vid_used = self.usage.get_img2vid_count(user_id)
                 if img2vid_used >= img2vid_limit:
-                    await interaction.response.send_message(
+                    await interaction.followup.send(
                         f"IMG2VID daily limit reached: **{img2vid_used}/{img2vid_limit}**.",
                         ephemeral=True,
                     )
@@ -748,7 +750,7 @@ class RebornComfyBot(commands.Bot):
                 if not self.active_sessions.get(user_id):
                     self.active_sessions.pop(user_id, None)
             await self._leave_synced_queue(session, reason="validation_failed")
-            await interaction.response.send_message(sync_error or "Request rejected by synced queue.", ephemeral=True)
+            await interaction.followup.send(sync_error or "Request rejected by synced queue.", ephemeral=True)
             return
 
         logger.info("Accepted request | user=%s workflow=%s type=%s tier=%s", format_user(interaction.user), resolved_workflow, workflow_type, tier.name)
@@ -757,8 +759,7 @@ class RebornComfyBot(commands.Bot):
         embed = self._build_generation_embed(session, status="🕒 Queued", title="Generation queued", color=ui_embeds.PROGRESS_COLOR)
 
         try:
-            await interaction.response.send_message(embed=embed, view=view)
-            session.message = await interaction.original_response()
+            session.message = await interaction.edit_original_response(embed=embed, view=view)
             session.metadata["view"] = view
 
             await self.queue.enqueue(
@@ -780,7 +781,7 @@ class RebornComfyBot(commands.Bot):
                 await self._update_generation_message(session, f"❌ Failed to queue request: {exc}", "Generation failed", ui_embeds.ERROR_COLOR)
                 await self._finalize_session(session)
                 return
-            raise
+            await interaction.followup.send(f"❌ Failed to queue request: {exc}", ephemeral=True)
 
     async def _run_generation_session(self, session: GenerationSession) -> None:
         image_data: Optional[bytes] = None
@@ -1185,4 +1186,3 @@ class RebornComfyBot(commands.Bot):
     def _prompt_contains_spoiler_tag(self, prompt: str) -> bool:
         prompt_normalized = self._normalize_tag(prompt)
         return any(tag in prompt_normalized for tag in self._spoiler_tags)
-
